@@ -1,8 +1,8 @@
 
-Hey , I'm Akash Bhagwat                  
+Hey , I'm Akash Bhagwat\n               
 
 💁‍♂️ About me
-🧑‍🎓 Right now, I doing B.Tech VIT Pune.
+🧑‍🎓 Right now, I doing @B.Tech VIT Pune.
 
 💻 I am good at web development and JAVA Netbeans
 
