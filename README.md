@@ -25,13 +25,13 @@ Passionate and Dynamic Indivisual on a Mission to Explore the Latest Technology 
 
 [![AGPL License](https://img.shields.io/badge/Machine_Learning-badge.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-📌💻 I’m currently learning new web technology's:
+📌💻 Recently I’m learning new web technology's:
 
 [![AGPL License](https://img.shields.io/badge/React_Js-white.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 [![AGPL License](https://img.shields.io/badge/Node_Js-purple.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-🤔 I’m currently open for: an `Intern`, this is my [resume!](https://drive.google.com/file/d/13h2ZhTe_jwunb1nJFxF5IJx0kY6ctHN_/view?usp=drivesdk)
+🤔 I’m currently open for: an `Intern`, this is my [RESUME!](https://drive.google.com/file/d/13h2ZhTe_jwunb1nJFxF5IJx0kY6ctHN_/view?usp=drivesdk)
 
 ⚡️# I might belong to small town but my dreams are not samll #`BelieveThat📌` 
 
