@@ -19,7 +19,7 @@ Passionate, Dedicated, and Innovative: A dynamic indivisual on a Mission to Expl
 
 😃🎓 Right now, I am pursuing B.Tech(final year)from VIT,Pune.
 
-💻 I am a software developer mainly in 
+💻 I am a software developer mainly instrested in 
 
 [![AGPL License](https://img.shields.io/badge/Web_Applications-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
