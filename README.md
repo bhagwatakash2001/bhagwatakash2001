@@ -1,7 +1,7 @@
 
 # Hey, I'm Akash 👋
 
-Passionate, Dedicated, and Innovative: A dynamic indivisual on a Mission to Explore the Latest Tech.
+Passionate and dynamic indivisual on a Mission to Explore the Latest Technology !
 
 
 ## 🔗 Links
