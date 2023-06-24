@@ -1,7 +1,7 @@
 
 # Hey, I'm Akash 👋
 
-Passionate and dynamic indivisual on a Mission to Explore the Latest Technology !
+Passionate and Dynamic Indivisual on a Mission to Explore the Latest Technology !
 
 
 ## 🔗 Links
