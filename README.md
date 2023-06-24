@@ -5,7 +5,9 @@ Passionate, Dedicated, and Innovative: A dynamic indivisual on a Mission to Expl
 
 
 ## 🔗 Links
+<p align ='center'>
 
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bhagwat-0a84201ab/)
 
 [![Gmail](https://img.shields.io/badge/%20-gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:akash.bhagwat21@vit.edu)
@@ -14,6 +16,7 @@ Passionate, Dedicated, and Innovative: A dynamic indivisual on a Mission to Expl
 
 [![instagram](https://img.shields.io/badge/%20-instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_akash_bhagwat)
 
+</p>
 
 
 
@@ -42,6 +45,7 @@ Passionate, Dedicated, and Innovative: A dynamic indivisual on a Mission to Expl
 
 ## 🛠 Skills
 👉 Programming Laguages 
+<p align ='center'>
 
 [![AGPL License](https://img.shields.io/badge/Java-white.svg)]()
 
@@ -50,29 +54,33 @@ Passionate, Dedicated, and Innovative: A dynamic indivisual on a Mission to Expl
 [![AGPL License](https://img.shields.io/badge/C/C++-white.svg)]()
 
 [![AGPL License](https://img.shields.io/badge/SQL_/_Nosql-white.svg)]()
-
+</p>
 👉 Frontend 
+<p align ='center'>
 
 [![AGPL License](https://img.shields.io/badge/React-blue.svg)]()
 
 [![AGPL License](https://img.shields.io/badge/AngularJS-red.svg)]()
-
+</p>
 👉 Backend  
+<p align ='center'>
 
 [![AGPL License](https://img.shields.io/badge/Flask-purple.svg)]()
 
 [![AGPL License](https://img.shields.io/badge/Node-white.svg)]()
-
+</p>
 👉 Database  
-
+<p align ='center'>
 [![AGPL License](https://img.shields.io/badge/MySQL-green.svg)]()
 
 [![AGPL License](https://img.shields.io/badge/Mongo-blue.svg)]()
-
+</p>
 👉 Problem Solving
+<p align ='center'>
 
 [![AGPL License](https://img.shields.io/badge/leetcode-orange.svg)]()
 
 [![AGPL License](https://img.shields.io/badge/GFG-purple.svg)]()
 
 [![AGPL License](https://img.shields.io/badge/Hackerrank-228B22.svg)]()
+</p>
